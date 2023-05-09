@@ -13,9 +13,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 </p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/programming.gif" width = 50px></picture> **About me**
 
 <br>
 
