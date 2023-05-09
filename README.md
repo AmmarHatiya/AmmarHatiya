@@ -11,7 +11,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 </p>
 
 	
-## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px></picture> **About me**
+## <img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px> **About me**
 
 <br>
 ▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
