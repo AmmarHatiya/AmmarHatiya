@@ -14,7 +14,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 ## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px></picture> **About me**
 
 <br>
-▷ Born and Raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
+▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
 <br>
 ▷ Current Role: Full Stack Developer @ <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
 <br>
