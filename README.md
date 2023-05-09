@@ -6,17 +6,16 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 -->
 
-<h1 align="center"><b>Hi, I'm Ammar </b><img alt"👋" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&duration=1800&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Welcome+to+my+GitHub!"></a>
 </p>
 
 	
 ## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px></picture> **About me**
 
 <br>
-
+▷ Born and Raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
+<br>
 ▷ Full Stack Developer @ <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
 <br>
 ▷ 4th year Computer Science Student @ Ontario Tech University
@@ -55,5 +54,8 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <img src="https://img.shields.io/badge/ammar hatiya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
+<br><br>
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=50&lines=+%D9%B1%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+(Peace+Be+Upon+You)"></a>
+<br>
 Last Edited on: September 1st, 2023
