@@ -13,12 +13,13 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 </p>
 
 	
-## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/programming.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px></picture> **About me**
 
 <br>
 
-- I'm a 4th year computer science student at Ontario Tech University
-- I’m currently a Full Stack Developer at <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
+▷ Full Stack Developer @ <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
+<br>
+▷ 4th year Computer Science Student @ Ontario Tech University
 
 
 <br><br>
