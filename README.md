@@ -58,7 +58,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
     ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
 
 
-## <b> Get in touch with me!</b>
+## <b> Let's get in touch!</b>
 <div align='center'>
 <a href="https://linkedin.com/in/ammarhatiya" target="_blank">
 <img src="https://img.shields.io/badge/ammar%20hatiya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
