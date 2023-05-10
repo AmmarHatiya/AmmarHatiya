@@ -19,6 +19,8 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 ▷ Current Role: Full Stack Developer @ <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
 <br>
 ▷ 4th year Computer Science Student @ Ontario Tech University
+<br>
+▷ <a href="https://github.com/AmmarHatiya/AmmarHatiya/blob/main/docs/Resume_Ammar_HatiyaMay2023.pdf">My Resume</a>
 
 
 <br><br>
