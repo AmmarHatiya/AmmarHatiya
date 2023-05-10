@@ -34,24 +34,32 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
     ![HTML5](https://img.shields.io/badge/-HTML5%20-e34c26?style=for-the-badge)
     ![CSS3](https://img.shields.io/badge/-CSS3%20-2196f3?style=for-the-badge)
     ![JavaScript](https://img.shields.io/badge/-JavaScript%20-f0db4f?style=for-the-badge)
-    ![C#](https://img.shields.io/badge/-CSharp%20-6A1577?style=for-the-badge)
-    ![C++](https://img.shields.io/badge/-C++%20-044F88?style=for-the-badge)
+    ![Java](https://img.shields.io/badge/-Java%20-f89820?style=for-the-badge)
     ![Python](https://img.shields.io/badge/-Python%20-306998?style=for-the-badge)
+    ![C#](https://img.shields.io/badge/-C%23%20-6A1577?style=for-the-badge)
+    ![C++](https://img.shields.io/badge/-C++%20-044F88?style=for-the-badge)
 
-<br>
+<!--     https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
+       ![TEXT](https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge) 
+     <img src="https://img.shields.io/badge/TEXT T-%2300acee.svg?color=3FA037&style=for-the-badge" alt=MongoDB style="margin-bottom: 5px;"/>
+   
+-->
+- **Tools and Frameworks**:
 
-- **Softwares and Tools**:
+    ![Git](https://img.shields.io/badge/-Git%20-F1502F?style=for-the-badge)
+    ![GitHub](https://img.shields.io/badge/-GitHub%20-333333?style=for-the-badge)
+    ![VSCode](https://img.shields.io/badge/-VS%20Code%20-0078d7?style=for-the-badge)
+    ![NodeJs](https://img.shields.io/badge/-Node%20Js%20-3C873A?style=for-the-badge)
+    ![Docker](https://img.shields.io/badge/-Docker%20-049cec?style=for-the-badge)
+    ![VueJs](https://img.shields.io/badge/-Vue%20Js%20-42b883?style=for-the-badge)
+    ![Reactjs](https://img.shields.io/badge/-React%20JS%20-61dbfb?style=for-the-badge)
+    ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-## <b> Let's Connect!</b>
+## <b> Get in touch with me!</b>
 <div align='center'>
 <a href="https://linkedin.com/in/ammarhatiya" target="_blank">
-<img src="https://img.shields.io/badge/ammar hatiya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/ammar%20hatiya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=Linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <br><br>
