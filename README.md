@@ -51,10 +51,10 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
     ![Git](https://img.shields.io/badge/-Git%20-F1502F?style=for-the-badge)
     ![GitHub](https://img.shields.io/badge/-GitHub%20-333333?style=for-the-badge)
     ![VSCode](https://img.shields.io/badge/-VS%20Code%20-0078d7?style=for-the-badge)
-    ![NodeJs](https://img.shields.io/badge/-Node%20Js%20-3C873A?style=for-the-badge)
+    ![NodeJs](https://img.shields.io/badge/-Node.Js%20-3C873A?style=for-the-badge)
     ![Docker](https://img.shields.io/badge/-Docker%20-049cec?style=for-the-badge)
-    ![VueJs](https://img.shields.io/badge/-Vue%20Js%20-42b883?style=for-the-badge)
-    ![Reactjs](https://img.shields.io/badge/-React%20JS%20-61dbfb?style=for-the-badge)
+    ![VueJs](https://img.shields.io/badge/-Vue.Js%20-42b883?style=for-the-badge)
+    ![Reactjs](https://img.shields.io/badge/-React.JS%20-61dbfb?style=for-the-badge)
     ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
 
 
