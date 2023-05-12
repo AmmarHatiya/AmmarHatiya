@@ -44,7 +44,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <!--     https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
        ![TEXT](https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge) 
      <img src="https://img.shields.io/badge/TEXT T-%2300acee.svg?color=3FA037&style=for-the-badge" alt=MongoDB style="margin-bottom: 5px;"/>
-   
+   #512BD4
 -->
 - **Tools and Frameworks**:
 
@@ -52,11 +52,11 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
     ![GitHub](https://img.shields.io/badge/-GitHub%20-333333?style=for-the-badge)
     ![VSCode](https://img.shields.io/badge/-VS%20Code%20-0078d7?style=for-the-badge)
     ![NodeJs](https://img.shields.io/badge/-Node.Js%20-3C873A?style=for-the-badge)
+    ![ASP.NET](https://img.shields.io/badge/-ASP.NET%20-512BD4?style=for-the-badge)
     ![Docker](https://img.shields.io/badge/-Docker%20-049cec?style=for-the-badge)
     ![VueJs](https://img.shields.io/badge/-Vue.Js%20-42b883?style=for-the-badge)
     ![Reactjs](https://img.shields.io/badge/-React.JS%20-61dbfb?style=for-the-badge)
     ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
-
 
 ## <b> Let's get in touch!</b>
 <div align='center'>
