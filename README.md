@@ -16,7 +16,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <br>
 ▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
 <br>
-▷ Current Role: Full Stack Developer @ <a href="[./product/download.html](https://www.linkedin.com/company/nuvoola/)" target="_top">Nuvoola AI</a>
+▷ Current Role: Undergraduate Researcher @ <a href="[./product/download.html](https://www.linkedin.com/school/ontariotech/)" target="_top">Ontario Tech University</a>
 <br>
 ▷ 4th year Computer Science Student @ Ontario Tech University
 <br>
