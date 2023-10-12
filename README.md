@@ -57,6 +57,8 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
     ![VueJs](https://img.shields.io/badge/-Vue.Js%20-42b883?style=for-the-badge)
     ![Reactjs](https://img.shields.io/badge/-React.JS%20-61dbfb?style=for-the-badge)
     ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
+    ![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge)  
+    ![Dart](https://img.shields.io/badge/-Dart-0553B1?style=for-the-badge)
 
 ## <b> Let's get in touch!</b>
 <div align='center'>
