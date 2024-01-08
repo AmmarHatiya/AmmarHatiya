@@ -20,7 +20,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <br>
 ▷ 4th year Computer Science Student @ Ontario Tech University
 <br>
-▷ <a href="https://github.com/AmmarHatiya/AmmarHatiya/blob/main/docs/Resume_Ammar_Hatiya_2023.pdf">My Resume</a>
+▷ <a href="https://github.com/AmmarHatiya/AmmarHatiya/blob/main/docs/Resume_Ammar_Hatiya.pdf">My Resume</a>
 
 
 <br><br>
