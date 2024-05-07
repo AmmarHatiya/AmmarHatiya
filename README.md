@@ -18,7 +18,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <br>
 ▷ Current Role: Undergraduate Researcher @ <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
 <br>
-▷ 4th year Computer Science Student @ Ontario Tech University
+▷ Education: B.Sc. Computer Science (2024), Ontario Tech University
 <br>
 ▷ <a href="https://github.com/AmmarHatiya/AmmarHatiya/blob/main/docs/Resume_Ammar_Hatiya.pdf">My Resume</a>
 
