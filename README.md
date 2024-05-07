@@ -31,34 +31,36 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 
 <p align="center">
 
-- **Languages**:
+- **Languages and Frameworks**:
   
     ![HTML5](https://img.shields.io/badge/-HTML5%20-e34c26?style=for-the-badge)
     ![CSS3](https://img.shields.io/badge/-CSS3%20-2196f3?style=for-the-badge)
     ![JavaScript](https://img.shields.io/badge/-JavaScript%20-f0db4f?style=for-the-badge)
+    ![NodeJs](https://img.shields.io/badge/-Node.Js%20-3C873A?style=for-the-badge)
+    ![VueJs](https://img.shields.io/badge/-Vue.Js%20-42b883?style=for-the-badge)
+    ![Reactjs](https://img.shields.io/badge/-React.JS%20-61dbfb?style=for-the-badge)
     ![Java](https://img.shields.io/badge/-Java%20-f89820?style=for-the-badge)
     ![Python](https://img.shields.io/badge/-Python%20-306998?style=for-the-badge)
     ![C#](https://img.shields.io/badge/-C%23%20-6A1577?style=for-the-badge)
     ![C++](https://img.shields.io/badge/-C++%20-044F88?style=for-the-badge)
+    ![Dart](https://img.shields.io/badge/-Dart-0553B1?style=for-the-badge)
+    ![ASP.NET](https://img.shields.io/badge/-ASP.NET%20-512BD4?style=for-the-badge)
+
 
 <!--     https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
        ![TEXT](https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge) 
      <img src="https://img.shields.io/badge/TEXT T-%2300acee.svg?color=3FA037&style=for-the-badge" alt=MongoDB style="margin-bottom: 5px;"/>
    #512BD4
 -->
-- **Tools and Frameworks**:
+- **Tools and Other**:
 
     ![Git](https://img.shields.io/badge/-Git%20-F1502F?style=for-the-badge)
     ![GitHub](https://img.shields.io/badge/-GitHub%20-333333?style=for-the-badge)
     ![VSCode](https://img.shields.io/badge/-VS%20Code%20-0078d7?style=for-the-badge)
-    ![NodeJs](https://img.shields.io/badge/-Node.Js%20-3C873A?style=for-the-badge)
-    ![ASP.NET](https://img.shields.io/badge/-ASP.NET%20-512BD4?style=for-the-badge)
     ![Docker](https://img.shields.io/badge/-Docker%20-049cec?style=for-the-badge)
-    ![VueJs](https://img.shields.io/badge/-Vue.Js%20-42b883?style=for-the-badge)
-    ![Reactjs](https://img.shields.io/badge/-React.JS%20-61dbfb?style=for-the-badge)
     ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB%20-3FA037?style=for-the-badge)
-    ![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge)  
-    ![Dart](https://img.shields.io/badge/-Dart-0553B1?style=for-the-badge)
+    ![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge)
+    ![SQLite](https://img.shields.io/badge/-SQLite%20-000863?style=for-the-badge)
 
 ## <b> Let's get in touch!</b>
 <div align='center'>
