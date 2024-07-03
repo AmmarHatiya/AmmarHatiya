@@ -7,18 +7,19 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&duration=1800&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=00e300&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG">
+  </a>
 </p>
 
-	
 ## <img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/about_me.gif" width = 25px> **About me**
 
 <br>
 ▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
 <br>
-▷ Current Role: Undergraduate Researcher @ <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
+▷ Most recent role: Software Developer (Co-op) @ <a href="https://www.linkedin.com/company/nuvoola" target="_top">Nuvoola</a>
 <br>
-▷ Education: B.Sc. Computer Science (2024), Ontario Tech University
+▷ Education: B.Sc. Computer Science (2024), <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
 <br>
 ▷ <a href="https://github.com/AmmarHatiya/AmmarHatiya/blob/main/docs/Resume_Ammar_Hatiya.pdf">My Resume</a>
 
