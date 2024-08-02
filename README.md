@@ -8,7 +8,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=00e300&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=00FF00FF&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG">
   </a>
 </p>
 
