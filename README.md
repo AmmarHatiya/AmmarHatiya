@@ -17,9 +17,9 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <br>
 ▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
 <br>
-▷ Most recent role: Software Developer (Co-op) @ <a href="https://www.linkedin.com/company/nuvoola" target="_top">Nuvoola</a>
+▷ Most recent role: Software Developer @ <a href="https://www.linkedin.com/company/nuvoola" target="_top">Nuvoola</a>
 <br>
-▷ Education: B.Sc. Computer Science (2024), <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
+▷ Education: B.Sc. Computer Science, <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
 
 
 
