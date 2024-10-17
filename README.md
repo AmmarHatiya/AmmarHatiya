@@ -17,7 +17,7 @@ https://img.shields.io/badge/-TEXT%20-COLOUR?style=for-the-badge
 <br>
 ▷ Born and raised in Toronto, Canada <picture><img src = "https://github.com/AmmarHatiya/AmmarHatiya/blob/main/assets/canada.png" width = 16px></picture>
 <br>
-▷ Most recent role: Software Developer @ <a href="https://www.linkedin.com/company/nuvoola" target="_top">Nuvoola</a>
+▷ Currently: Technical Solutions Engineer @ Shornali Solutions
 <br>
 ▷ Education: B.Sc. Computer Science, <a href="https://www.linkedin.com/school/ontariotech" target="_top">Ontario Tech University</a>
 
