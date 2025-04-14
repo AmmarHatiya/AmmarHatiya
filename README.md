@@ -12,7 +12,7 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 
 - 🔭 Building scalable applications and cloud-native solutions
 - 💡 Experienced in full-stack development and cloud integration
-- 📚 Currently pursuing AWS Cloud Practitioner Certification
+- 📚 Currently pursuing AWS Solutions Architect Certification
 - 🎓 B.Sc. in Computer Science from Ontario Tech University
 - 🏆 Achieved President's List and Dean's List recognition
 
