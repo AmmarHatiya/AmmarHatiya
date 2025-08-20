@@ -19,7 +19,7 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 ### Professional Experience 💼
 
 - **Automation Developer** at Shornali Solutions
-- **Software Engineer – AI/Backend (Research)** at iNAGO (AI/ML Research)
+- **Software Engineer – AI/Backend (Research)** at iNAGO
 - **Software Developer** at Nuvoola
 - **Full Stack Developer** at Mely.ai
 
