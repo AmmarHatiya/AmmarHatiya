@@ -13,13 +13,13 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 - 🔭 Building scalable applications and cloud-native solutions
 - 💡 Experienced in full-stack development and cloud integration
 - 📚 Currently pursuing AWS Solutions Architect Certification
-- 🎓 B.Sc. in Computer Science from Ontario Tech University
+- 🎓 B.Sc. (Honours) in Computer Science from Ontario Tech University
 - 🏆 Achieved President's List and Dean's List recognition
 
 ### Professional Experience 💼
 
-- **Solutions Engineer** at Shornali Solutions
-- **Research Engineer** at iNAGO (AI/ML Research)
+- **Automation Developer** at Shornali Solutions
+- **Software Engineer – AI/Backend (Research)** at iNAGO (AI/ML Research)
 - **Software Developer** at Nuvoola
 - **Full Stack Developer** at Mely.ai
 
@@ -28,12 +28,11 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 ```javascript
 const skills = {
     languages: ['Python', 'JavaScript', 'C#', 'C++', 'Java', 'Dart'],
-    frontend: ['React', 'Vue.js', 'HTML/CSS', 'Vuetify'],
+    frontend: ['React.js', 'Vue.js', 'HTML/CSS', 'Vuetify'],
     backend: ['Node.js', 'Express.js', 'Django', 'ASP.NET'],
-    cloud: ['AWS (S3/EC2/Lambda/Textract)', 'Google Firebase', 'Azure'],
-    databases: ['MongoDB', 'SQLite', 'SQL'],
+    cloud: ['AWS (S3, EC2, Lambda, Textract)', 'Google Firebase', 'Azure'],
+    databases: ['MongoDB', 'SQL (PostgreSQL, MySQL, SQLite)'],
     tools: ['Docker', 'Git', 'JIRA'],
-    data: ['Data Engineering', 'ETL Pipelines', 'Big Data Analytics']
 };
 ```
 
