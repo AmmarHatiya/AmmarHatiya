@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ammar Hatiya</h1>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=4285F4&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Software+Developer+%7C+Cloud+Engineer;Full+Stack+Development+%7C+Data+Engineering" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=4285F4&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Software+Developer+%7C+Cloud+Engineer;Full+Stack+Development+%7C+Automation" alt="Typing SVG">
   </a>
 </p>
 
