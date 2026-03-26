@@ -28,11 +28,11 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 ```javascript
 const skills = {
     cloud: ['AWS (S3, EC2, Lambda, Textract)', 'Azure (DevOps, Entra, AD)'],
-    languages: ['Python', 'JavaScript', 'C#', 'C++', 'Java', 'Dart'],
-    frontend: ['React.js', 'Vue.js', 'HTML/CSS', 'Vuetify'],
+    languages: ['Python', 'JavaScript', 'C#', 'Java', 'Dart'],
+    frontend: ['React.js', 'Vue.js', 'HTML/CSS', 'Tailwind'],
     backend: ['Node.js', 'Express.js', 'Django', 'ASP.NET'],
     databases: ['MongoDB', 'SQL (PostgreSQL, MySQL, SQLite)'],
-    tools: ['Docker', 'Git', 'JIRA'],
+    tools: ['Docker', 'Kubernetes', 'Git'],
 };
 ```
 
