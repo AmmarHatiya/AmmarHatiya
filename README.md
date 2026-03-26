@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=4285F4&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Software+Developer+%7C+Cloud+Engineer;Full+Stack+Development+%7C+Automation" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=500&color=4285F4&center=true&vCenter=true&multiline=true&repeat=false&width=605&height=85&lines=Cloud+Engineer+%7C+Software+Developer" alt="Typing SVG">
   </a>
 </p>
 
@@ -17,7 +17,7 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 - 🏆 Achieved President's List and Dean's List recognition
 
 ### Professional Experience 💼
-
+- **Cloud & Infrastructure Analyst** at GIP
 - **Automation Developer** at Shornali Solutions
 - **Software Engineer – AI/Backend (Research)** at iNAGO
 - **Software Developer** at Nuvoola
@@ -30,7 +30,7 @@ const skills = {
     languages: ['Python', 'JavaScript', 'C#', 'C++', 'Java', 'Dart'],
     frontend: ['React.js', 'Vue.js', 'HTML/CSS', 'Vuetify'],
     backend: ['Node.js', 'Express.js', 'Django', 'ASP.NET'],
-    cloud: ['AWS (S3, EC2, Lambda, Textract)', 'Google Firebase', 'Azure'],
+    cloud: ['AWS (S3, EC2, Lambda, Textract)', 'Azure (DevOps, Entra, AD)'],
     databases: ['MongoDB', 'SQL (PostgreSQL, MySQL, SQLite)'],
     tools: ['Docker', 'Git', 'JIRA'],
 };
