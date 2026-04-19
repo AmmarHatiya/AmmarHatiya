@@ -17,7 +17,7 @@ I'm a technology professional with expertise in full-stack development, cloud ar
 - 🏆 Achieved President's List and Dean's List recognition
 
 ### Professional Experience 💼
-- **Cloud & Infrastructure Analyst** at GIP
+- **Cloud & Infrastructure Support Analyst** at GIP
 - **Automation Developer** at Shornali Solutions
 - **Software Engineer – AI/Backend (Research)** at iNAGO
 - **Software Developer** at Nuvoola
